@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend (Laravel)
+backend/.env
+backend/storage/logs/*.log
+backend/storage/app/
+backend/database/database.sqlite
+backend/vendor/
+backend/node_modules/
+backend/.phpunit.cache/
+
+# Frontend (Nuxt)
+frontend/.env
+frontend/node_modules/
+frontend/.nuxt/
+frontend/.output/
+frontend/dist/
